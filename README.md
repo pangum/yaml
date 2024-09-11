@@ -1,4 +1,4 @@
-# 项目
+# yaml
 [![编译状态](https://github.ruijc.com:20443/api/badges/pangum/pangu/status.svg)](https://github.ruijc.com:20443/pangum/pangu)
 [![Golang质量](https://goreportcard.com/badge/github.com/pangum/pangu)](https://goreportcard.com/report/github.com/pangum/pangu)
 ![版本](https://img.shields.io/github/go-mod/go-version/pangum/pangu)
@@ -9,7 +9,7 @@
 ![最佳语言](https://img.shields.io/github/languages/top/pangum/pangu)
 ![星星个数](https://img.shields.io/github/stars/pangum/pangu?style=social)
 
-项目介绍
+提供基于Yaml文件格式的配置文件加载器，只需要简单引入项目就可以完成Yaml格式的配置文件解析
 
 ## 项目实践
 
