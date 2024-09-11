@@ -1,4 +1,4 @@
-package starter
+package yaml
 
 import (
 	"github.com/pangum/yaml/internal"
