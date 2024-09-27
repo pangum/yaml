@@ -6,7 +6,7 @@ require (
 	github.com/goexl/exception v0.0.1
 	github.com/goexl/gox v1.8.9
 	github.com/pangum/config v0.1.0
-	github.com/pangum/pangu v1.4.5
+	github.com/pangum/pangu v1.4.6
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -24,7 +24,7 @@ require (
 	github.com/goexl/log v0.0.7 // indirect
 	github.com/goexl/mengpo v0.2.6 // indirect
 	github.com/goexl/structer v0.1.8 // indirect
-	github.com/goexl/xiren v0.0.7 // indirect
+	github.com/goexl/xiren v0.0.8 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/mattn/go-runewidth v0.0.16 // indirect
