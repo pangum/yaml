@@ -6,7 +6,7 @@ require (
 	github.com/goexl/exception v0.0.1
 	github.com/goexl/gox v1.8.9
 	github.com/pangum/config v0.1.0
-	github.com/pangum/pangu v1.5.4
+	github.com/pangum/pangu v1.5.6
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -20,7 +20,7 @@ require (
 	github.com/go-playground/validator/v10 v10.22.1 // indirect
 	github.com/goexl/baozheng v0.0.1 // indirect
 	github.com/goexl/env v0.0.2 // indirect
-	github.com/goexl/gfx v0.2.3 // indirect
+	github.com/goexl/gfx v0.2.5 // indirect
 	github.com/goexl/log v0.0.7 // indirect
 	github.com/goexl/mengpo v0.2.6 // indirect
 	github.com/goexl/structer v0.1.9 // indirect
