@@ -6,7 +6,7 @@ require (
 	github.com/goexl/exception v0.0.3
 	github.com/goexl/gox v1.9.2
 	github.com/pangum/config v0.1.0
-	github.com/pangum/pangu v1.5.6
+	github.com/pangum/pangu v1.5.7
 	gopkg.in/yaml.v3 v3.0.1
 )
 
