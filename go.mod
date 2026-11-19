@@ -1,12 +1,10 @@
 module github.com/pangum/yaml
 
-go 1.24
-
-toolchain go1.24.1
+go 1.27
 
 require (
 	github.com/goexl/exception v0.0.4
-	github.com/goexl/gox v1.9.2
+	github.com/goexl/gox v1.9.3
 	github.com/pangum/config v0.1.0
 	github.com/pangum/pangu v1.6.3
 	gopkg.in/yaml.v3 v3.0.1
